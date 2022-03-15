@@ -7,4 +7,4 @@ Teamviewer remote or RDR viewer on Iphone or Android. The versatility is awesome
 Best regards
 Ryan Johnson
 ![Screenshot_2022-03-13_010736](https://user-images.githubusercontent.com/51103416/158053740-c460a47d-a8f6-4bfc-a57b-a3c7929f589e.jpg)
-Onedrive link:
+Copy and paste Onedrive link:
